@@ -1,4 +1,29 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Daniel Jimenez</h1>
+<h5 align="center"> Game Developer | Unity | C# | Unreal | C++ |</h5>
+
+## Connect with me ☕ :
+[![@dannizj](https://img.icons8.com/fluency/48/000000/linkedin.png "@dannizj")](https://www.linkedin.com/in/dannizj/) 
+[![@dannizj03@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@dannizj03@gmail.com")](dannizj03@gmail.com)  [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white "https://dannizj.itch.io/")](https://dannizj.itch.io/) 
 
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+HI! I am passionate Game Developer with over 5 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences. Ability to work in multidisciplinary teams, from Game Conception to launch. Committed to continuous improvement and the adoption of new technologies to take video games to the next level.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - Java
+  - React js
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+
+__Check out my PortFolio:__
+
+
+
+
+<br>
 
