@@ -1,25 +1,32 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Daniel Jimenez</h1>
+<h1 align="center">Hi <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="35">, I'm Daniel Jimenez</h1>
 <h5 align="center"> Game Developer | Unity | C# | Unreal | C++ |</h5>
 
 <!--
-## Connect with me ☕ :
+
 [![@dannizj](https://img.icons8.com/fluency/48/000000/linkedin.png "@dannizj")](https://www.linkedin.com/in/dannizj/) 
 [![@dannizj03@gmail.com](https://skillicons.dev/icons?i=gmail "@dannizj03@gmail.com")](dannizj03@gmail.com) ‎
 -->
 
+## Connect with me ☕ :
 
-<div align=center>
-  <h3><b> 
+ <h3><b> 
     <a href="https://www.linkedin.com/in/dannizj/" target="_blank">
     <img align="center" alt="Danni ZJ | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-    </a> &nbsp;&nbsp; 
-    <a href="dannizj03@gmail.com">
-    <img align="center" alt="Danni ZJ | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    </a> &nbsp;&nbsp;    
+    
+   <a href="mailto:dannizj03@gmail.com">
+   <img align="center" alt="Danni ZJ | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+   </a> &nbsp;&nbsp;   
+    
+  <a href="https://sites.google.com/view/dannizjportfolio/inicio" target="_blank">
+  <img align="center"
+       alt="Portfolio Website"
+       width="26px"
+       src="https://cdn.simpleicons.org/googlechrome/4285F4" />
 </a> &nbsp;&nbsp;
 
-  </b> </h3>
-</div>
 
+  </b> </h3>
  ‎ 
   
   
@@ -29,10 +36,10 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 HI! I am passionate Game Developer with over 5 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences. Ability to work in multidisciplinary teams, from Game Conception to launch. Committed to continuous improvement and the adoption of new technologies to take video games to the next level.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in Gameplay, Multiplayer, and AI**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  - AI to VideoGames
+  - Multiplayer
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
