@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="35">, I'm Daniel Jimenez</h1>
+<h1 align="center">Hi, I'm Daniel Jimenez <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="35"></h1>
 <h5 align="center"> Game Developer | Unity | C# | Unreal | C++ |</h5>
 
 <!--
@@ -7,9 +7,10 @@
 [![@dannizj03@gmail.com](https://skillicons.dev/icons?i=gmail "@dannizj03@gmail.com")](dannizj03@gmail.com) ‎
 -->
 
-## Connect with me ☕ :
+
 
  <h3><b> 
+  Connect with me : &nbsp;
     <a href="https://www.linkedin.com/in/dannizj/" target="_blank">
     <img align="center" alt="Danni ZJ | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
     </a> &nbsp;&nbsp;    
@@ -35,18 +36,25 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-HI! I am passionate Game Developer with over 5 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences. Ability to work in multidisciplinary teams, from Game Conception to launch. Committed to continuous improvement and the adoption of new technologies to take video games to the next level.
-* **I am interested in Gameplay, Multiplayer, and AI**
+HI! I am passionate Game Developer with over 5 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences.<br>
+
+Ability to work in multidisciplinary teams, from Game Conception to launch. Committed to continuous improvement and the adoption of new technologies to take video games to the next level.<br>
+
+* **I am interested in Gameplay, Multiplayer, and AI.**
 - 🌱 I’m currently learning ...
-  - AI to VideoGames
-  - Multiplayer
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+  - AI to VideoGames.
+  - Multiplayer.
+  - Level Design.
+- 👯 I’m looking for my next challenge to level up my career.
+- ✔ Open to new opportunities — feel free to reach out!😉<br>
+- Outside tech, 🎵 I enjoy playing music, 🎬 watching movies, 📖 reading books, and ⚽ playing different sports.
+- 📫 Reach out to me at 
+<a href="mailto:dannizj03@gmail.com">dannizj03@gmail.com</a> 
+or 
+<a href="https://www.linkedin.com/in/dannizj/" target="_blank">LinkedIn</a>
 
 __Check out my PortFolio:__
-
+<a href="https://www.linkedin.com/in/dannizj/" target="_blank">LinkedIn</a>
 
 
 
