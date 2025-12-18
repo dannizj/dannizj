@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Daniel Jimenez <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="35"></h1>
 <h5 align="center"> Game Developer | Unity | C# | Unreal | C++ |</h5>
 
-<!--
-
-[![@dannizj](https://img.icons8.com/fluency/48/000000/linkedin.png "@dannizj")](https://www.linkedin.com/in/dannizj/) 
-[![@dannizj03@gmail.com](https://skillicons.dev/icons?i=gmail "@dannizj03@gmail.com")](dannizj03@gmail.com) ‎
--->
-
-
 
  <h3><b> 
   Connect with me : &nbsp;
@@ -19,28 +12,26 @@
    <img align="center" alt="Danni ZJ | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
    </a> &nbsp;&nbsp;   
     
-  <a href="https://sites.google.com/view/dannizjportfolio/inicio" target="_blank">
-  <img align="center"
+   <a href="https://sites.google.com/view/dannizjportfolio/inicio" target="_blank">
+   <img align="center"
        alt="Portfolio Website"
        width="26px"
        src="https://cdn.simpleicons.org/googlechrome/4285F4" />
-</a> &nbsp;&nbsp;
-
-
+   </a> &nbsp;&nbsp;
   </b> </h3>
  ‎ 
   
   
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-HI! I am passionate Game Developer with over 5 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences.<br>
+I am passionate Game Developer with over 5 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences.<br>
 
 Ability to work in multidisciplinary teams, from Game Conception to launch. Committed to continuous improvement and the adoption of new technologies to take video games to the next level.<br>
 
-* **I am interested in Gameplay, Multiplayer, and AI.**
+* **I am interested in Gameplay, Multiplayer and AI.**
 - 🌱 I’m currently learning ...
   - AI to VideoGames.
   - Multiplayer.
@@ -54,7 +45,7 @@ or
 <a href="https://www.linkedin.com/in/dannizj/" target="_blank">LinkedIn</a>
 
 __Check out my PortFolio:__
-<a href="https://www.linkedin.com/in/dannizj/" target="_blank">LinkedIn</a>
+<a href="https://sites.google.com/view/dannizjportfolio/inicio" target="_blank"> WebSite.</a>
 
 
 
