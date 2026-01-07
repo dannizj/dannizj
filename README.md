@@ -27,7 +27,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am passionate Game Developer with over 5 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences.<br>
+I am passionate Game Developer with over 6 Years of experience creating games using Unity and Unreal. Specialized in development of innovative Game Mechanics and immersive user experiences.<br>
 
 Ability to work in multidisciplinary teams, from Game Conception to launch. Committed to continuous improvement and the adoption of new technologies to take video games to the next level.<br>
 
