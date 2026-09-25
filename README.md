@@ -12,7 +12,7 @@
    <img align="center" alt="Danni ZJ | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
    </a> &nbsp;&nbsp;   
     
-   <a href="https://sites.google.com/view/dannizjportfolio/inicio" target="_blank">
+   <a href="https://dannizj.github.io/portafolio/" target="_blank">
    <img align="center"
        alt="Portfolio Website"
        width="26px"
@@ -45,7 +45,7 @@ or
 <a href="https://www.linkedin.com/in/dannizj/" target="_blank">LinkedIn</a>
 
 __Check out my PortFolio:__
-<a href="https://sites.google.com/view/dannizjportfolio/inicio" target="_blank"> WebSite.</a>
+<a href="https://dannizj.github.io/portafolio/" target="_blank"> WebSite.</a>
 <br>
 
 
